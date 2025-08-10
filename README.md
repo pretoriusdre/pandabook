@@ -18,7 +18,7 @@
 
 ## Data Import:
 
-* You can also load a collection of named tables from and Excel file back to dataframes.
+* You can also load a collection of named tables from an Excel file back to dataframes.
 
     ![Data import](media/img/data_import.png)
 
