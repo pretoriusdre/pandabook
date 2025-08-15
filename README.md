@@ -3,9 +3,11 @@
 ## Data Export:
 
 * Export a collection of pandas dataframes to an Excel workbook with advanced styling options.
-* Handles arbitrary data types, like lists, dictionaries, uuid etc.
+* You can export many dataframes into the same file. You'll get an index page with links to each tab.
+* Handles arbitrary data types, such as lists, dictionaries, uuid, and others.
 * Handles multi-level indexes
-* Can do conditional formatting based on values, row-specific styling, etc.
+* Can do conditional formatting based on values.
+* Allows for granular control over each column, such as widths and styles.
 
 
     ![Index table](media/img/index_table.png)
